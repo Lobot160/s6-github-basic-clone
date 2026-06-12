@@ -1,0 +1,3 @@
+git add > add files to be commited
+git commit -m > commit files that are staged
+git switch -c > create a branch and switch to it
