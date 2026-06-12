@@ -1,3 +1,6 @@
 git add > add files to be commited
 git commit -m > commit files that are staged
 git switch -c > create a branch and switch to it
+git clone > copies a repository from a website (usually github)
+git source > add or change sources to push your commits to
+git push > update the commits to the source
